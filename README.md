@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Chris Helmerson's Blog Phase 1
 
-You can use the [editor on GitHub](https://github.com/chris161011/chris161011.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Chris Helmerson and I am creating this blog as part of my education with Flatiron School. I graduated from Central Washington University with a BS in Accounting and have spent the last 10 years working as an accountant in the construction industry. As an accountant I managed and created financials for several 100M+ investments.
 
-### Markdown
+LinkedIn Profile [Link](https://www.linkedin.com/in/christopher-helmerson-2a10194b/) (To be updated)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why I Chose Data Science.
 
-```markdown
-Syntax highlighted code block
+I chose to switch from a career in Accounting to Data Science for a multitude of reasons, but I would say that the main reason is I have a natural curiousity for finding solutions with mathmatical reasoning and Data Science empowers me to do just that. I also will enjoy the better work/life balance as my wife and I recently welcomed our first child, Olive.
 
-# Header 1
-## Header 2
-### Header 3
+![Olive](https://user-images.githubusercontent.com/96925271/150041161-42e6d832-73fc-4c72-adf3-5d7eafc8e518.jpg)
 
-- Bulleted
-- List
+## What I Hope to Get Out of Flatiron
 
-1. Numbered
-2. List
+I will walk out of Flatiron armed with the tools i need to...
 
-**Bold** and _Italic_ and `Code` text
+* Provide statistical analysis using imperfect sets of data.
+* Write code using Python, SQL, Git, etc
+* Succeed in an interview setting and be ready to prove my value.
+* Be ready to perform in a team based atmosphere.
 
-[Link](url) and ![Image](src)
-```
+I hope to use these skills to land a career in Data Science that is able to provide for my family. I would prefer it be related to sports, tech or government, but at this point i'm just looking for a foot in the door.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Thanks For Stopping By
 
-### Jekyll Themes
+Can't wait to get to know you all better and wish you the best of luck!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chris161011/chris161011.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![why_we're_actually_here](https://user-images.githubusercontent.com/96925271/150043638-a7048f32-7f5a-46ee-999d-9bfdda1e5f4b.gif)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: Helmerson_chris@yahoo.com
