@@ -28,6 +28,9 @@ In conclusion, scikit-learn is a very powerful tool that impacts our day to day 
 
 # Resources
 https://scikit-learn.org/
+
 https://en.wikipedia.org/wiki/Scikit-learn
+
 https://www.tutorialspoint.com/scikit_learn/index.htm
+
 https://stackabuse.com/overview-of-classification-methods-in-python-with-scikit-learn/
