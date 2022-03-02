@@ -22,9 +22,13 @@ For my third idea, I was considering comparing the costs involved with the atten
 Things I need to consider for this idea include...
 
 • Should I separate by major?
+
 • Should I only compare like majors? For instance, CS major vs Flatiron CS grad.
+
 • Will I be able to find this data from reliable sources?
+
 • Will Flatiron provide me with some of their data?
+
 
 This option seems to have the most question marks so I would say I am least likely to choose it, but would still be very interested in the findings if I could pull it off.
 
