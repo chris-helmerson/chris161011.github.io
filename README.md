@@ -4,7 +4,7 @@ Hello,
 
 My name is Chris Helmerson and I am creating this blog as part of my education with Flatiron School. I graduated from Central Washington University with a BS in Accounting and have spent the last 10 years working as an accountant in the construction industry. As an accountant I managed and created financials for several 100M+ investments.
 
-LinkedIn Profile [Link](https://www.linkedin.com/in/christopher-helmerson-2a10194b/) (To be updated)
+LinkedIn Profile [Link](https://www.linkedin.com/in/christopher-helmerson-2a10194b/)
 
 ## Why I Chose Data Science.
 
